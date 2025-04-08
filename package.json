@@ -1,0 +1,25 @@
+{
+  "name": "task_manager",
+  "version": "1.0.0",
+  "description": "Node JS task manager builded with mongo db",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbmariana/task_manager.git"
+  },
+  "author": "barbmariana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barbmariana/task_manager/issues"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
+  },
+  "homepage": "https://github.com/barbmariana/task_manager#readme"
+}
